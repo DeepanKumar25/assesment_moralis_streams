@@ -1,0 +1,16 @@
+{
+  "name": "moralis_streams",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@moralisweb3/common-evm-utils": "^2.23.2",
+    "dotenv": "^16.3.1",
+    "moralis": "^2.23.2"
+  }
+}
